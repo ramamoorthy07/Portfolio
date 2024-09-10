@@ -10,7 +10,7 @@ export const Bio = {
       "Dedicated AI Engineer with 1 year of Python experience. Skilled in designing and deploying ML models, developing data-driven apps, and leveraging cutting-edge tech for innovation. Thrives in fast-paced environments, focused on delivering high-quality, scalable solutions.",
     github: "https://github.com/ramamoorthy07",
     resume:
-      "https://drive.google.com/file/d/1P44VXvkbNie5koeyAv187Bt6YYZUj1sq/view?usp=drive_link",
+      "https://drive.google.com/file/d/1xG-eGfMfezA4AKiP6jPU6e78nm955kXg/view?usp=drive_link",
     linkedin: "https://www.linkedin.com/in/ramamoorthy07/",
   };
   
