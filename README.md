@@ -1,70 +1,116 @@
-# Getting Started with Create React App
+<div align="center">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# ⚡ RAMAMOORTHY S — FULL-STACK AI ENGINEER
 
-## Available Scripts
+### Autonomous AI Systems Architect & Production Cloud Engineer
+*Specializing in LangGraph, CrewAI, LangChain, FastAPI, and Cloud Deployments on Microsoft Azure & AWS.*
 
-In the project directory, you can run:
+[![Role](https://img.shields.io/badge/Role-AI%20Engineer%20%40%20Postqode-00D4FF?style=for-the-badge)](https://github.com/ramamoorthy07)
+[![Status](https://img.shields.io/badge/Status-Open%20for%20AI%20%26%20Agentic%20Roles-10B981?style=for-the-badge)](mailto:kts.ramamoorthy07@gmail.com)
+[![Location](https://img.shields.io/badge/Location-India-A855F7?style=for-the-badge)](https://github.com/ramamoorthy07)
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+</div>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📌 Executive Overview
 
-### `npm test`
+Welcome to the interactive portfolio repository of **Ramamoorthy S**, **AI Engineer at Postqode**. 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This application is built as an interactive **Terminal OS & Neural Dashboard** that showcases real production AI systems, autonomous multi-agent graph architectures, and cloud deployments.
 
-### `npm run build`
+- 🤖 **Agentic Multi-Agent Workflows**: Designing stateful agent graphs using **LangGraph** & **CrewAI**.
+- ⚡ **RAG & Microservices**: Building high-speed production RAG pipelines with **LangChain** and asynchronous **FastAPI** backends.
+- ☁️ **Cloud Infrastructure**: Architecting and deploying scalable solutions on **Microsoft Azure** and **AWS**.
+- 🧩 **Postqode Extension**: Shipped enterprise Chrome extension and AI tooling from requirement analysis to solution architecture and cloud deployment.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🖥️ Interactive OS Modules & Features
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+| Module | Route | Description |
+| :--- | :--- | :--- |
+| ⚡ **Terminal OS** | `/terminal` | Full-fledged interactive shell with support for `neofetch`, `skills`, `projects`, `experience`, `contact`, and `sudo hire`. |
+| 🧑‍💻 **Engineering Profile** | `/about` | Deep dive into technical identity, architecture philosophy, and educational foundation. |
+| 🚀 **Deployed Systems** | `/projects` | Showcase of production systems including **Postqode Extension**, **City 360**, and **AI Agents**. |
+| 🌌 **Knowledge Graph** | `/skills` | Interactive node visualization of Ram's AI frameworks, backend stack, and cloud infrastructure. |
+| ⏳ **Execution History** | `/experience` | Work history timeline detailing AI Engineer deliverables at **Postqode** and **Databels Solutions**. |
+| ✉️ **Contact Endpoint** | `/contact` | Glassmorphic direct messaging interface powered by EmailJS. |
+| 🤖 **RAM AI Assistant** | `/ai-lab` | Interactive assistant panel for architecture inquiries and resume diagnostics. |
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🎨 Theme Engine
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+The application includes a real-time theme customizer accessible from the top menu bar:
+- 🩵 **Neuron Cyber** (`#00D4FF`) — Signature Cyan Accent
+- 💚 **Matrix Green** (`#10B981`) — Hacker Matrix Theme
+- ❄️ **Nordic Frost** (`#88C0D0`) — Clean Minimalist Theme
+- 💜 **Dracula Night** (`#BD93F9`) — Vibrant Dark Purple
+- 🟡 **Solarized Retro** (`#B58900`) — Warm Cyber Amber
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🛠️ Tech Stack & Architecture
 
-## Learn More
+### **AI & Machine Learning**
+- **Frameworks**: LangGraph, CrewAI, LangChain, GraphRAG, LlamaIndex
+- **Languages**: Python 3.11, JavaScript (ES6+)
+- **Models**: OpenAI GPT-4o, Anthropic Claude, Azure OpenAI Service
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### **Backend & Cloud Infrastructure**
+- **API Engine**: FastAPI, Pydantic, Uvicorn, RESTful Microservices
+- **Cloud Platforms**: Microsoft Azure (App Services, Azure AI), AWS (EC2, S3, Inferentia)
+- **Database**: PostgreSQL, Vector DBs (FAISS, Chroma, Pinecone)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### **Frontend & UI Engine**
+- **Framework**: React 18, Vite 5
+- **Animations**: Framer Motion, Custom CSS Variables
+- **Icons**: Lucide React
+- **Email Service**: EmailJS Integration
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 💻 Local Development Setup
 
-### Analyzing the Bundle Size
+Follow these steps to run the portfolio locally on your machine:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```bash
+# 1. Clone the repository
+git clone https://github.com/ramamoorthy07/Portfolio.git
 
-### Making a Progressive Web App
+# 2. Navigate to project directory
+cd Portfolio
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+# 3. Install dependencies
+npm install
 
-### Advanced Configuration
+# 4. Start the local development server
+npm run dev
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Open `http://localhost:5173` in your browser to view the application.
 
-### Deployment
+### Production Build
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+```bash
+# Build production bundle
+npm run build
 
-### `npm run build` fails to minify
+# Preview production build locally
+npm run preview
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
+## 📬 Contact & Connect
+
+- **Direct Email**: [kts.ramamoorthy07@gmail.com](mailto:kts.ramamoorthy07@gmail.com)
+- **GitHub**: [github.com/ramamoorthy07](https://github.com/ramamoorthy07)
+- **LinkedIn**: [linkedin.com/in/ramamoorthy-s](https://linkedin.com/in/ramamoorthy-s)
+
+---
+
+<div align="center">
+  <sub>Built with precision by <strong>Ramamoorthy S</strong> · AI Engineer @ Postqode</sub>
+</div>
