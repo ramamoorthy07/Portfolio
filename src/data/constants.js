@@ -141,7 +141,27 @@ export const Bio = {
     {
       id: 0,
       img: "https://firebasestorage.googleapis.com/v0/b/portfolio-b9ce3.appspot.com/o/unnamed.png?alt=media&token=3340e033-389e-4ca1-9d0d-eb363241b15a",
+      role: "AI Engineer",
+      company: "Postqode",
+      date: "July 2024 - Present",
+      desc: "Worked on Postqode Extension and built AI agents on Azure with LangGraph, LangChain, FastAPI, and Python — leading projects from requirements to solution architecture, cloud deployment, and shipping.",
+      skills: [
+        "Postqode Extension",
+        "LangGraph",
+        "LangChain",
+        "FastAPI",
+        "Python",
+        "Microsoft Azure",
+        "AI Agents",
+        "Solution Architecture",
+        "Cloud Deployment"
+      ],
+    },
+    {
+      id: 1,
+      img: "https://firebasestorage.googleapis.com/v0/b/portfolio-b9ce3.appspot.com/o/unnamed.png?alt=media&token=3340e033-389e-4ca1-9d0d-eb363241b15a",
       role: "Freelancer - AI Engineer",
+      company: "Self-employed",
       date: "July 2024 - present",
       desc: "Working on OS Platforms, building LLM Applications , Deploying in the cloud services and making documentations.",
       skills: [
@@ -150,18 +170,18 @@ export const Bio = {
         "Keras",
         "Pandas",
         "Matplotlib",
-        "THugging Face",
+        "Hugging Face",
         "OpenAI's GPT",
         "AWS",
         "Flask",
         "Git",
         "SQL",
-        "GrapRAG",
+        "GraphRAG",
         "LangChain"
       ],
     },
     {
-      id: 0,
+      id: 2,
       img: "https://firebasestorage.googleapis.com/v0/b/portfolio-b9ce3.appspot.com/o/Databels%20logo.jpg?alt=media&token=3756b866-8e68-4f41-8af2-f20ef387d57e",
       role: "Python Developer",
       company: "Databels Solutions Pvt. Ltd.",
@@ -173,7 +193,6 @@ export const Bio = {
         "CSS",
         "JavaScript",
       ],
-      
     },
   ];
   
